@@ -9,8 +9,8 @@ Prodi   : Teknik Informatika 7-A
 Project : Aplikasi KAS ( Aplikasi Manajemen Keuangan )
 
 Feature :
-* Laporan keuangan pribadi
 * Laporan keuangan kelompok
+* Join Room Kelompok
 
 # Figma Design
 
